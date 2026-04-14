@@ -1,0 +1,11 @@
+{
+  "description": "Portafolio personal",
+  "repo": "https://github.com/Darck-irso/DNS-rtegistrer",
+  "owner": {
+        "username": "Darck-irso",
+        "email": "sophiairis.solutions@gmail.com"
+      },
+  "record": {
+        "CNAME": "portafolio-jsolis.vercel.app"
+    }
+}
